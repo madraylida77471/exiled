@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download Exiled](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://tinyurl.com/exiled-download)
+[![Download Exiled](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://share.google/xnEXGYGQfvO88mG6T)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Download Exiled](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://tinyurl.com/exiled-download)
+[![Download Exiled](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://share.google/xnEXGYGQfvO88mG6T)
 
 </div>
 
@@ -173,7 +173,7 @@ Survive, build, and explore a massive open world for free. **Exiled – Open-Wor
 
 <div align="center">
 
-[![Download Exiled](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://tinyurl.com/exiled-download)
+[![Download Exiled](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://share.google/xnEXGYGQfvO88mG6T)
 
 **Version 2.3.0** — Free open-world survival RPG. May 2026 update. Zero cost. No payment.
 
